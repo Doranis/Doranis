@@ -2,11 +2,13 @@
     "name": "doranis/framework",
     "description": "Doranis is world of freedom",
     "minimum-stability": "dev",
+    "homepage": "http://doranis.com",
     "license": "MIT",
     "authors": [
         {
             "name": "Pezhvak IMV",
-            "email": "pezhvakimv@gmail.com"
+            "email": "pezhvakimv@gmail.com",
+            "homepage": "http://pezhvak.imvx.org"
         }
     ],
     "require": {
