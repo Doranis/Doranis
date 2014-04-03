@@ -12,6 +12,6 @@
         }
     ],
     "require": {
-        "doranis/doranis": "1.0.*"
+        "doranis/framework": "1.0.*"
     }
 }
