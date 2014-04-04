@@ -1,4 +1,4 @@
 Doranis
 =======
 
-Doranis Framework
+Doranis PHP Framework
